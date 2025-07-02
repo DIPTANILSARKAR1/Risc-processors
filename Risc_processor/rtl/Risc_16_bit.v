@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
-// fpga4student.com // FPGA projects, VHDL projects, Verilog projects
-// Verilog code for RISC Processor
-// Top-level module for the 16-bit RISC processor
+
 module Risc_16_bit(
  input clk // Main clock input for the processor
 );
